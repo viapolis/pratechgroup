@@ -1,0 +1,23 @@
+h6{
+	font-style: italic;
+}
+.col-empatia-color{
+	background-color: #6a9534;	
+	color: #fff;
+}
+.col-fidelizar-color{
+	background-color: #386690;	
+	color: #fff;
+}
+.page-footer{
+	background-color: gray;	
+	min-height: 30px;
+	color: lightgray;
+	margin: 10px 0 0 0;
+}
+.page-footer a:link{
+	color: white;
+}
+.container-fluid{
+	margin-top: 10px;
+}
